@@ -1,5 +1,5 @@
 // Configuration
-const API_URL = "http://127.0.0.1:8000";
+const API_URL =  https://inimitable-unperfectively-kylah.ngrok-free.dev -> http://localhost:8000;
 const SESSION_ID = "user_" + Date.now();
 
 let isGenerating = false;
